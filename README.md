@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://simple-portfolio-rust-five.vercel.app/](https://simple-portfolio-rust-five.vercel.app/)
+- 👨‍💻 All of my projects are available at([https://simple-portfolio-rust-five.vercel.app/](https://al-nahian-portfolio.vercel.app/))
 
 - 💬 Ask me about **laravel,Nextjs**
 
